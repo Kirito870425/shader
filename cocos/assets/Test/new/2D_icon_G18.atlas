@@ -1,0 +1,132 @@
+
+2D_icon_G18.webp
+size: 352,1196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 2, 189
+  size: 160, 104
+  orig: 171, 111
+  offset: 8, 7
+  index: -1
+arm_right
+  rotate: true
+  xy: 118, 58
+  size: 87, 109
+  orig: 107, 128
+  offset: 4, 19
+  index: -1
+armor_left
+  rotate: 180
+  xy: 34, 103
+  size: 130, 87
+  orig: 138, 94
+  offset: 0, 7
+  index: -1
+armor_left_01
+  rotate: false
+  xy: 2, 25
+  size: 90, 79
+  orig: 99, 81
+  offset: 1, 2
+  index: -1
+armor_right_01
+  rotate: true
+  xy: 225, 51
+  size: 83, 88
+  orig: 88, 91
+  offset: 0, 3
+  index: -1
+bg
+  rotate: false
+  xy: 179, 135
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 2, 576
+  size: 240, 240
+  orig: 245, 240
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: true
+  xy: 220, 536
+  size: 293, 125
+  orig: 293, 137
+  offset: 0, 0
+  index: -1
+body_05
+  rotate: 180
+  xy: 2, 283
+  size: 297, 139
+  orig: 315, 139
+  offset: 18, 0
+  index: -1
+body_06
+  rotate: false
+  xy: 2, 418
+  size: 313, 159
+  orig: 313, 159
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 285, 284
+  size: 159, 62
+  orig: 177, 76
+  offset: 8, 0
+  index: -1
+hair
+  rotate: false
+  xy: 303, 19
+  size: 43, 84
+  orig: 47, 84
+  offset: 3, 0
+  index: -1
+hand_left
+  rotate: 180
+  xy: 204, 3
+  size: 81, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 93, 11
+  size: 70, 97
+  orig: 81, 100
+  offset: 11, 0
+  index: -1
+hand_right_01
+  rotate: false
+  xy: 301, 982
+  size: 46, 59
+  orig: 46, 62
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 812
+  size: 301, 383
+  orig: 301, 383
+  offset: 0, 0
+  index: -1
+moustache_left
+  rotate: false
+  xy: 70, 7
+  size: 67, 45
+  orig: 69, 45
+  offset: 2, 0
+  index: -1
+moustache_right
+  rotate: false
+  xy: 277, 436
+  size: 67, 44
+  orig: 73, 45
+  offset: 5, 1
+  index: -1

@@ -1,0 +1,146 @@
+
+2D_icon_G63.png
+size: 160,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 417
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+bg_P
+  rotate: false
+  xy: 2, 297
+  size: 118, 118
+  orig: 120, 120
+  offset: 1, 1
+  index: -1
+build_1
+  rotate: false
+  xy: 2, 162
+  size: 88, 53
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 558
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+instantWin
+  rotate: false
+  xy: 2, 132
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+instantWin_light
+  rotate: true
+  xy: 122, 297
+  size: 110, 27
+  orig: 110, 28
+  offset: 0, 0
+  index: -1
+leaf_1
+  rotate: true
+  xy: 106, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+leaf_1-2
+  rotate: true
+  xy: 89, 27
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 67, 4
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+number_0
+  rotate: true
+  xy: 2, 60
+  size: 35, 44
+  orig: 37, 47
+  offset: 1, 1
+  index: -1
+number_2
+  rotate: true
+  xy: 75, 66
+  size: 36, 46
+  orig: 38, 48
+  offset: 1, 1
+  index: -1
+number_8
+  rotate: true
+  xy: 107, 104
+  size: 37, 45
+  orig: 38, 47
+  offset: 0, 1
+  index: -1
+number_9
+  rotate: false
+  xy: 123, 57
+  size: 33, 45
+  orig: 35, 48
+  offset: 1, 1
+  index: -1
+ring_1_on
+  rotate: true
+  xy: 2, 97
+  size: 33, 71
+  orig: 37, 71
+  offset: 1, 0
+  index: -1
+ring_2_on
+  rotate: false
+  xy: 107, 143
+  size: 37, 72
+  orig: 39, 72
+  offset: 1, 0
+  index: -1
+ring_3
+  rotate: true
+  xy: 48, 46
+  size: 18, 72
+  orig: 21, 72
+  offset: 0, 0
+  index: -1
+ring_4
+  rotate: true
+  xy: 2, 26
+  size: 18, 71
+  orig: 20, 71
+  offset: 2, 0
+  index: -1
+ring_5
+  rotate: false
+  xy: 143, 409
+  size: 11, 73
+  orig: 11, 73
+  offset: 0, 0
+  index: -1
+roll
+  rotate: false
+  xy: 2, 217
+  size: 154, 78
+  orig: 163, 81
+  offset: 4, 2
+  index: -1
+trunk_1
+  rotate: true
+  xy: 2, 9
+  size: 15, 63
+  orig: 15, 64
+  offset: 0, 1
+  index: -1

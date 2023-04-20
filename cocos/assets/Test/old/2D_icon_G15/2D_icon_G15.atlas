@@ -1,0 +1,181 @@
+
+2D_icon_G15.png
+size: 568,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottom plate
+  rotate: true
+  xy: 117, 16
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+MG_Brow_L
+  rotate: false
+  xy: 2, 2
+  size: 15, 9
+  orig: 15, 10
+  offset: 0, 1
+  index: -1
+MG_Brow_R
+  rotate: false
+  xy: 19, 2
+  size: 15, 9
+  orig: 15, 10
+  offset: 0, 1
+  index: -1
+MG_Crown
+  rotate: false
+  xy: 500, 82
+  size: 61, 44
+  orig: 61, 45
+  offset: 0, 1
+  index: -1
+MG_Crown_F
+  rotate: false
+  xy: 150, 3
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+MG_Eye_L
+  rotate: true
+  xy: 36, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+MG_Eye_R
+  rotate: true
+  xy: 49, 2
+  size: 9, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+MG_Eyeclose
+  rotate: true
+  xy: 388, 8
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+MG_Face
+  rotate: false
+  xy: 372, 57
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+MG_Hair01
+  rotate: false
+  xy: 362, 6
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+MG_Hair02
+  rotate: false
+  xy: 523, 3
+  size: 17, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+MG_Hair03
+  rotate: true
+  xy: 500, 46
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+MG_Hair04
+  rotate: false
+  xy: 499, 3
+  size: 22, 41
+  orig: 22, 42
+  offset: 0, 1
+  index: -1
+MG_Hair05
+  rotate: true
+  xy: 297, 7
+  size: 34, 63
+  orig: 35, 64
+  offset: 0, 1
+  index: -1
+MG_Hair06
+  rotate: true
+  xy: 437, 62
+  size: 64, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+MG_Hair07
+  rotate: false
+  xy: 542, 4
+  size: 21, 40
+  orig: 22, 41
+  offset: 0, 1
+  index: -1
+MG_Hair08
+  rotate: true
+  xy: 228, 7
+  size: 34, 67
+  orig: 35, 68
+  offset: 0, 1
+  index: -1
+MG_Hair09
+  rotate: true
+  xy: 438, 31
+  size: 29, 59
+  orig: 30, 60
+  offset: 0, 1
+  index: -1
+MG_Hair10
+  rotate: true
+  xy: 228, 43
+  size: 83, 82
+  orig: 84, 83
+  offset: 0, 1
+  index: -1
+MG_Hair11
+  rotate: true
+  xy: 438, 5
+  size: 24, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+MG_Hair_B
+  rotate: true
+  xy: 312, 56
+  size: 70, 58
+  orig: 70, 59
+  offset: 0, 1
+  index: -1
+MG_Neck
+  rotate: true
+  xy: 406, 10
+  size: 45, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+MG_White_L
+  rotate: false
+  xy: 117, 2
+  size: 15, 12
+  orig: 15, 13
+  offset: 0, 1
+  index: -1
+MG_White_R
+  rotate: false
+  xy: 134, 2
+  size: 14, 12
+  orig: 15, 13
+  offset: 0, 1
+  index: -1
+circle
+  rotate: false
+  xy: 2, 13
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

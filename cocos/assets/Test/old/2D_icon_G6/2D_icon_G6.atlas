@@ -1,0 +1,167 @@
+
+2D_icon_G6.png
+size: 1172,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShaCha_body_01
+  rotate: false
+  xy: 447, 115
+  size: 146, 155
+  orig: 146, 160
+  offset: 0, 5
+  index: -1
+ShaCha_cloth_01
+  rotate: false
+  xy: 92, 24
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+ShaCha_cloth_02
+  rotate: false
+  xy: 513, 6
+  size: 78, 107
+  orig: 78, 107
+  offset: 0, 0
+  index: -1
+ShaCha_cloth_03
+  rotate: false
+  xy: 945, 140
+  size: 60, 130
+  orig: 60, 131
+  offset: 0, 1
+  index: -1
+ShaCha_eyes
+  rotate: true
+  xy: 660, 12
+  size: 103, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+ShaCha_eyes_close
+  rotate: true
+  xy: 593, 9
+  size: 104, 65
+  orig: 104, 66
+  offset: 0, 1
+  index: -1
+ShaCha_face
+  rotate: false
+  xy: 595, 117
+  size: 139, 153
+  orig: 140, 154
+  offset: 0, 1
+  index: -1
+ShaCha_flower_L
+  rotate: false
+  xy: 736, 122
+  size: 58, 148
+  orig: 58, 153
+  offset: 0, 5
+  index: -1
+ShaCha_flower_R1
+  rotate: false
+  xy: 1074, 134
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+ShaCha_flower_R2
+  rotate: false
+  xy: 1007, 171
+  size: 65, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+ShaCha_hair01
+  rotate: false
+  xy: 1074, 185
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+ShaCha_hair02
+  rotate: true
+  xy: 339, 2
+  size: 81, 172
+  orig: 82, 174
+  offset: 0, 2
+  index: -1
+ShaCha_hair03
+  rotate: true
+  xy: 722, 14
+  size: 101, 146
+  orig: 101, 147
+  offset: 0, 1
+  index: -1
+ShaCha_hair04
+  rotate: true
+  xy: 2, 48
+  size: 222, 335
+  orig: 225, 336
+  offset: 3, 1
+  index: -1
+ShaCha_hair05
+  rotate: true
+  xy: 870, 2
+  size: 119, 293
+  orig: 119, 294
+  offset: 0, 1
+  index: -1
+ShaCha_hand_left_01
+  rotate: true
+  xy: 42, 12
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+ShaCha_hand_left_02
+  rotate: true
+  xy: 339, 85
+  size: 185, 106
+  orig: 185, 106
+  offset: 0, 0
+  index: -1
+ShaCha_icon
+  rotate: true
+  xy: 1007, 123
+  size: 46, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+ShaCha_kira01
+  rotate: false
+  xy: 2, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+ShaCha_kira02
+  rotate: false
+  xy: 64, 14
+  size: 26, 32
+  orig: 27, 33
+  offset: 0, 1
+  index: -1
+ShaCha_kira03
+  rotate: false
+  xy: 92, 3
+  size: 17, 19
+  orig: 18, 20
+  offset: 0, 1
+  index: -1
+ShaCha_mouth_open
+  rotate: false
+  xy: 111, 4
+  size: 21, 18
+  orig: 22, 19
+  offset: 0, 1
+  index: -1
+bg
+  rotate: false
+  xy: 796, 123
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+2D_icon_G63.webp
+size: 180,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 364
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+bg_P
+  rotate: false
+  xy: 2, 242
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+build_1
+  rotate: false
+  xy: 2, 89
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 505
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+instantWin
+  rotate: true
+  xy: 143, 354
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+instantWin_light
+  rotate: true
+  xy: 124, 242
+  size: 110, 28
+  orig: 110, 28
+  offset: 0, 0
+  index: -1
+leaf_1
+  rotate: false
+  xy: 2, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+leaf_1-2
+  rotate: false
+  xy: 2, 8
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 132, 5
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+number_0
+  rotate: true
+  xy: 92, 40
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+number_2
+  rotate: true
+  xy: 2, 49
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+number_8
+  rotate: false
+  xy: 52, 40
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+number_9
+  rotate: false
+  xy: 141, 29
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+ring_1_on
+  rotate: true
+  xy: 95, 79
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+ring_2_on
+  rotate: true
+  xy: 95, 118
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+ring_3
+  rotate: false
+  xy: 154, 242
+  size: 21, 72
+  orig: 21, 72
+  offset: 0, 0
+  index: -1
+ring_4
+  rotate: false
+  xy: 155, 459
+  size: 20, 71
+  orig: 20, 71
+  offset: 0, 0
+  index: -1
+ring_5
+  rotate: true
+  xy: 57, 6
+  size: 11, 73
+  orig: 11, 73
+  offset: 0, 0
+  index: -1
+roll
+  rotate: false
+  xy: 2, 159
+  size: 163, 81
+  orig: 163, 81
+  offset: 0, 0
+  index: -1
+trunk_1
+  rotate: false
+  xy: 155, 532
+  size: 15, 64
+  orig: 15, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+2D_icon_G42.webp
+size: 156,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 288
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+BG_light
+  rotate: true
+  xy: 2, 411
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 2, 81
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+Coin_01
+  rotate: false
+  xy: 37, 4
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Coin_02
+  rotate: false
+  xy: 20, 3
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Coin_03
+  rotate: false
+  xy: 100, 3
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Coin_04
+  rotate: false
+  xy: 111, 41
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Coin_05
+  rotate: false
+  xy: 129, 41
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Coin_06
+  rotate: false
+  xy: 2, 12
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+MJ_01
+  rotate: false
+  xy: 52, 3
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+MJ_02
+  rotate: true
+  xy: 2, 20
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Treasure01
+  rotate: false
+  xy: 126, 321
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Treasure02
+  rotate: true
+  xy: 126, 288
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Treasure03
+  rotate: false
+  xy: 111, 17
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+cabinet_light
+  rotate: true
+  xy: 2, 122
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 543
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+frame_2
+  rotate: false
+  xy: 2, 691
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+g42_ld_img_1
+  rotate: true
+  xy: 2, 191
+  size: 95, 143
+  orig: 95, 143
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 79, 60
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+t_sn_146
+  rotate: false
+  xy: 79, 125
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

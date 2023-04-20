@@ -1,0 +1,111 @@
+
+2D_icon_G33.png
+size: 236,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 2, 48
+  size: 103, 127
+  orig: 103, 128
+  offset: 0, 1
+  index: -1
+7_Light
+  rotate: true
+  xy: 2, 267
+  size: 125, 149
+  orig: 128, 152
+  offset: 1, 1
+  index: -1
+7_frame
+  rotate: true
+  xy: 2, 153
+  size: 112, 136
+  orig: 112, 137
+  offset: 0, 1
+  index: -1
+Bottom plate
+  rotate: false
+  xy: 2, 394
+  size: 200, 201
+  orig: 201, 202
+  offset: 1, 0
+  index: -1
+Grape
+  rotate: false
+  xy: 49, 4
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Grape_1
+  rotate: false
+  xy: 153, 359
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Grape_2
+  rotate: false
+  xy: 166, 30
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+Grape_3
+  rotate: true
+  xy: 153, 320
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+Grape_4
+  rotate: false
+  xy: 153, 261
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+N4_leaf01
+  rotate: true
+  xy: 204, 394
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+N4_leaf02
+  rotate: false
+  xy: 167, 8
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+N4_orange
+  rotate: false
+  xy: 143, 187
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+N5_cherry01
+  rotate: true
+  xy: 2, 3
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+N5_cherry02
+  rotate: true
+  xy: 97, 7
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+watermelon
+  rotate: true
+  xy: 131, 74
+  size: 111, 99
+  orig: 111, 99
+  offset: 0, 0
+  index: -1

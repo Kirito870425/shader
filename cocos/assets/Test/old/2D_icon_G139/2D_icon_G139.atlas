@@ -1,0 +1,139 @@
+
+2D_icon_G139.png
+size: 168,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 369
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 174
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+cushion_01
+  rotate: true
+  xy: 134, 174
+  size: 99, 25
+  orig: 152, 25
+  offset: 28, 0
+  index: -1
+cushion_02
+  rotate: true
+  xy: 138, 274
+  size: 103, 19
+  orig: 153, 19
+  offset: 26, 0
+  index: -1
+fan_bliss
+  rotate: true
+  xy: 91, 66
+  size: 106, 49
+  orig: 106, 49
+  offset: 0, 0
+  index: -1
+fan_bliss_light
+  rotate: false
+  xy: 2, 3
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: false
+  xy: 139, 466
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 663
+  size: 155, 155
+  orig: 157, 157
+  offset: 1, 1
+  index: -1
+frame2
+  rotate: false
+  xy: 2, 506
+  size: 155, 155
+  orig: 157, 157
+  offset: 1, 1
+  index: -1
+frame3
+  rotate: false
+  xy: 2, 248
+  size: 130, 119
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 2, 36
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 139, 405
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 95
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+koban
+  rotate: false
+  xy: 139, 378
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+koban_light
+  rotate: true
+  xy: 47, 6
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+koban_light2
+  rotate: false
+  xy: 82, 7
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+koban_light3
+  rotate: false
+  xy: 124, 3
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+rope_01
+  rotate: false
+  xy: 139, 432
+  size: 24, 33
+  orig: 53, 39
+  offset: 29, 6
+  index: -1
+rope_02
+  rotate: 180
+  xy: 56, 37
+  size: 99, 33
+  orig: 99, 33
+  offset: 0, 0
+  index: -1

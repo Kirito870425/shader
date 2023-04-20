@@ -1,0 +1,279 @@
+
+2D_icon_G40.webp
+size: 1696,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_hand_L_01
+  rotate: true
+  xy: 672, 13
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+01_hand_R
+  rotate: false
+  xy: 1183, 66
+  size: 159, 181
+  orig: 159, 181
+  offset: 0, 0
+  index: -1
+01_skirt01
+  rotate: 180
+  xy: 348, 10
+  size: 251, 118
+  orig: 251, 178
+  offset: 0, 60
+  index: -1
+02_Headwear01
+  rotate: false
+  xy: 1183, 7
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+02_Headwear02
+  rotate: false
+  xy: 2, 337
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+02_Headwear03
+  rotate: true
+  xy: 771, 8
+  size: 32, 148
+  orig: 32, 148
+  offset: 0, 0
+  index: -1
+02_Headwear04
+  rotate: false
+  xy: 1639, 283
+  size: 38, 137
+  orig: 38, 137
+  offset: 0, 0
+  index: -1
+02_Headwear05
+  rotate: true
+  xy: 255, 19
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+02_Headwear06
+  rotate: false
+  xy: 1245, 13
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+02_arms_01
+  rotate: false
+  xy: 1560, 100
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+02_arms_02
+  rotate: false
+  xy: 1594, 32
+  size: 35, 90
+  orig: 35, 90
+  offset: 0, 0
+  index: -1
+02_arms_03
+  rotate: false
+  xy: 364, 332
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+02_arms_04
+  rotate: false
+  xy: 1619, 177
+  size: 44, 205
+  orig: 44, 205
+  offset: 0, 0
+  index: -1
+02_arms_05
+  rotate: false
+  xy: 1578, 230
+  size: 71, 189
+  orig: 71, 189
+  offset: 0, 0
+  index: -1
+02_arms_06
+  rotate: false
+  xy: 1301, 12
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+02_arms_07
+  rotate: 180
+  xy: 1257, 32
+  size: 207, 388
+  orig: 273, 524
+  offset: 66, 136
+  index: -1
+02_arms_08
+  rotate: 270
+  xy: 1308, 3
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+02_body
+  rotate: true
+  xy: 839, 35
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+02_face_02
+  rotate: false
+  xy: 649, 61
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+02_face_03
+  rotate: true
+  xy: 679, 202
+  size: 217, 139
+  orig: 217, 139
+  offset: 0, 0
+  index: -1
+02_hair01
+  rotate: 180
+  xy: 2, 66
+  size: 434, 353
+  orig: 434, 353
+  offset: 0, 0
+  index: -1
+02_hair02
+  rotate: 180
+  xy: 1507, 31
+  size: 85, 256
+  orig: 85, 256
+  offset: 0, 0
+  index: -1
+02_hair03
+  rotate: true
+  xy: 820, 177
+  size: 183, 179
+  orig: 183, 179
+  offset: 0, 0
+  index: -1
+02_hair04
+  rotate: false
+  xy: 1410, 159
+  size: 141, 237
+  orig: 141, 237
+  offset: 0, 0
+  index: -1
+02_hair05
+  rotate: 270
+  xy: 2, 20
+  size: 88, 252
+  orig: 88, 252
+  offset: 0, 0
+  index: -1
+02_hair06
+  rotate: 180
+  xy: 941, 157
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+02_hand_L
+  rotate: 270
+  xy: 1443, 9
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+02_rope01
+  rotate: false
+  xy: 84, 397
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+02_rope02
+  rotate: false
+  xy: 1390, 38
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+02_rope03
+  rotate: false
+  xy: 2, 289
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+02_rope04
+  rotate: 180
+  xy: 1624, 10
+  size: 70, 106
+  orig: 110, 139
+  offset: 0, 33
+  index: -1
+02_rope05
+  rotate: false
+  xy: 2, 137
+  size: 25, 118
+  orig: 49, 156
+  offset: 1, 38
+  index: -1
+02_scarf01
+  rotate: 180
+  xy: 558, 11
+  size: 113, 150
+  orig: 113, 150
+  offset: 0, 0
+  index: -1
+02_scarf02
+  rotate: 180
+  xy: 1490, 257
+  size: 140, 163
+  orig: 140, 163
+  offset: 0, 0
+  index: -1
+02_scarf03
+  rotate: true
+  xy: 1345, 195
+  size: 225, 96
+  orig: 225, 96
+  offset: 0, 0
+  index: -1
+02_skirt
+  rotate: 270
+  xy: 1142, 158
+  size: 238, 94
+  orig: 251, 147
+  offset: 5, 53
+  index: -1
+03_face
+  rotate: 270
+  xy: 405, 129
+  size: 290, 272
+  orig: 290, 272
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1034, 9
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+mahjong
+  rotate: 180
+  xy: 1606, 117
+  size: 62, 67
+  orig: 64, 69
+  offset: 1, 2
+  index: -1

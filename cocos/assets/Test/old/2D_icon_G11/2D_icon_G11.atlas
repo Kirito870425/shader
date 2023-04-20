@@ -1,0 +1,83 @@
+
+2D_icon_G11.png
+size: 444,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 13
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 308, 10
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 246, 11
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+eyesball
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 117, 13
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+head01
+  rotate: true
+  xy: 308, 62
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+head02
+  rotate: false
+  xy: 366, 70
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 418, 95
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 232, 26
+  size: 74, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+t_leaf_01
+  rotate: true
+  xy: 232, 8
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 379, 24
+  size: 44, 62
+  orig: 48, 63
+  offset: 0, 1
+  index: -1

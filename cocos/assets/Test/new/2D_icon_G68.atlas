@@ -1,0 +1,62 @@
+
+2D_icon_G68.webp
+size: 172,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_car
+  rotate: false
+  xy: 2, 161
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+flag_L
+  rotate: true
+  xy: 65, 3
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+flag_R
+  rotate: false
+  xy: 2, 59
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+red_car
+  rotate: false
+  xy: 2, 227
+  size: 152, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+t_rold_01
+  rotate: false
+  xy: 2, 7
+  size: 19, 77
+  orig: 19, 77
+  offset: 0, 0
+  index: -1
+t_spot_02
+  rotate: false
+  xy: 23, 39
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+t_spotlight_01
+  rotate: false
+  xy: 106, 161
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 2, 312
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1

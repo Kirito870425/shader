@@ -1,0 +1,265 @@
+
+2D_icon_G59.webp
+size: 156,1368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ani_arm_L_00010
+  rotate: false
+  xy: 105, 391
+  size: 43, 100
+  orig: 43, 100
+  offset: 0, 0
+  index: -1
+Ani_arm_R_00010
+  rotate: true
+  xy: 2, 391
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+Ani_wrist_L_00010
+  rotate: 270
+  xy: 2, 220
+  size: 78, 137
+  orig: 78, 137
+  offset: 0, 0
+  index: -1
+Ani_wrist_R_00010
+  rotate: true
+  xy: 2, 33
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 1058
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+CARD_1
+  rotate: true
+  xy: 2, 617
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+CARD_2
+  rotate: true
+  xy: 2, 459
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+CARD_3
+  rotate: true
+  xy: 44, 709
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+FX01
+  rotate: false
+  xy: 2, 261
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 908
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+L_earrings_B
+  rotate: false
+  xy: 11, 8
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+L_earrings_F
+  rotate: false
+  xy: 2, 22
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+L_earrings_pearl
+  rotate: false
+  xy: 2, 7
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+L_eyeball_1
+  rotate: false
+  xy: 2, 12
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+L_eyeball_2
+  rotate: false
+  xy: 19, 4
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+L_sleeve
+  rotate: false
+  xy: 2, 44
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+R_earrings_B
+  rotate: false
+  xy: 43, 9
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+R_earrings_F
+  rotate: false
+  xy: 144, 19
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+R_earrings_pearl
+  rotate: false
+  xy: 34, 4
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+R_eyeball_1
+  rotate: false
+  xy: 34, 9
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+R_eyeball_2
+  rotate: false
+  xy: 134, 4
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+R_sleeve
+  rotate: false
+  xy: 115, 666
+  size: 34, 42
+  orig: 35, 43
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 796
+  size: 110, 149
+  orig: 111, 149
+  offset: 1, 0
+  index: -1
+coin_1
+  rotate: false
+  xy: 106, 637
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+coin_2
+  rotate: false
+  xy: 105, 493
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: true
+  xy: 85, 49
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: 270
+  xy: 56, 317
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+hair_B1_1
+  rotate: true
+  xy: 79, 295
+  size: 22, 69
+  orig: 22, 70
+  offset: 0, 0
+  index: -1
+hair_B1_2
+  rotate: 270
+  xy: 12, 18
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: true
+  xy: 33, 530
+  size: 106, 115
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+hair_f
+  rotate: false
+  xy: 103, 39
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 67, 4
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: 180
+  xy: 99, 3
+  size: 44, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+totem
+  rotate: false
+  xy: 2, 1208
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+totemFX01
+  rotate: false
+  xy: 72, 169
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+totemFX02
+  rotate: true
+  xy: 2, 150
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+totemFX03
+  rotate: false
+  xy: 72, 101
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

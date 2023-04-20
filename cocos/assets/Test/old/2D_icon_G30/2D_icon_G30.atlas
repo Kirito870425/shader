@@ -1,0 +1,139 @@
+
+2D_icon_G30.png
+size: 208,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 44, 3
+  size: 31, 26
+  orig: 31, 27
+  offset: 0, 1
+  index: -1
+base
+  rotate: false
+  xy: 2, 31
+  size: 113, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 117, 65
+  size: 53, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 185, 6
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 109, 2
+  size: 8, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+eyelid_L
+  rotate: false
+  xy: 187, 32
+  size: 17, 28
+  orig: 18, 29
+  offset: 0, 1
+  index: -1
+eyelid_R
+  rotate: true
+  xy: 77, 4
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 135, 5
+  size: 13, 15
+  orig: 13, 16
+  offset: 0, 1
+  index: -1
+foot_R
+  rotate: true
+  xy: 152, 5
+  size: 13, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 187, 19
+  size: 11, 18
+  orig: 12, 19
+  offset: 0, 1
+  index: -1
+mask
+  rotate: false
+  xy: 117, 20
+  size: 49, 43
+  orig: 49, 44
+  offset: 0, 1
+  index: -1
+mask_L
+  rotate: false
+  xy: 109, 13
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+mask_R
+  rotate: true
+  xy: 117, 12
+  size: 6, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+scarf_1
+  rotate: true
+  xy: 172, 92
+  size: 50, 33
+  orig: 50, 34
+  offset: 0, 1
+  index: -1
+scarf_2
+  rotate: true
+  xy: 169, 2
+  size: 15, 14
+  orig: 15, 15
+  offset: 0, 1
+  index: -1
+scarf_3
+  rotate: true
+  xy: 122, 3
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+scarf_b
+  rotate: true
+  xy: 168, 24
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: true
+  xy: 172, 62
+  size: 28, 31
+  orig: 28, 32
+  offset: 0, 1
+  index: -1
+wing_R
+  rotate: false
+  xy: 2, 2
+  size: 40, 27
+  orig: 40, 28
+  offset: 0, 1
+  index: -1

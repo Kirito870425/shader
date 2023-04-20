@@ -1,0 +1,160 @@
+
+2D_icon_G16.webp
+size: 288,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DaJio_body_02
+  rotate: true
+  xy: 2, 111
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+DaJio_eyes
+  rotate: false
+  xy: 2, 60
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+DaJio_eyes_close
+  rotate: true
+  xy: 2, 592
+  size: 97, 52
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+DaJio_face
+  rotate: true
+  xy: 144, 184
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+DaJio_hair
+  rotate: true
+  xy: 151, 299
+  size: 206, 125
+  orig: 206, 185
+  offset: 0, 60
+  index: -1
+DaJio_hair01
+  rotate: 180
+  xy: 129, 107
+  size: 96, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+DaJio_hair02
+  rotate: false
+  xy: 215, 47
+  size: 69, 106
+  orig: 69, 106
+  offset: 0, 0
+  index: -1
+DaJio_hair03
+  rotate: 180
+  xy: 258, 394
+  size: 26, 90
+  orig: 32, 99
+  offset: 6, 9
+  index: -1
+DaJio_hair04
+  rotate: true
+  xy: 84, 20
+  size: 107, 172
+  orig: 107, 172
+  offset: 0, 0
+  index: -1
+DaJio_hair05
+  rotate: 270
+  xy: 97, 3
+  size: 81, 116
+  orig: 81, 135
+  offset: 0, 19
+  index: -1
+DaJio_hair06
+  rotate: false
+  xy: 2, 416
+  size: 230, 271
+  orig: 242, 271
+  offset: 0, 0
+  index: -1
+DaJio_hair_item
+  rotate: false
+  xy: 2, 513
+  size: 21, 77
+  orig: 21, 77
+  offset: 0, 0
+  index: -1
+DaJio_hand_left_01
+  rotate: true
+  xy: 2, 165
+  size: 101, 130
+  orig: 101, 130
+  offset: 0, 0
+  index: -1
+DaJio_hand_left_02
+  rotate: false
+  xy: 251, 17
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+DaJio_hand_left_03
+  rotate: false
+  xy: 226, 130
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+DaJio_hand_right_01
+  rotate: false
+  xy: 2, 12
+  size: 42, 28
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+DaJio_hand_right_02
+  rotate: false
+  xy: 225, 498
+  size: 59, 189
+  orig: 59, 189
+  offset: 0, 0
+  index: -1
+DaJio_hand_right_03
+  rotate: false
+  xy: 2, 37
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+DaJio_mouth_open
+  rotate: false
+  xy: 2, 662
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 267
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+mahjong
+  rotate: false
+  xy: 233, 364
+  size: 42, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+mahjong2
+  rotate: false
+  xy: 59, 12
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1

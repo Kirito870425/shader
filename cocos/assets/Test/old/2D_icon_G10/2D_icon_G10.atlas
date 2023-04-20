@@ -1,0 +1,111 @@
+
+2D_icon_G10.png
+size: 212,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 395
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+LOVE
+  rotate: false
+  xy: 2, 280
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+YOU
+  rotate: true
+  xy: 112, 77
+  size: 109, 67
+  orig: 116, 78
+  offset: 4, 4
+  index: -1
+arm_R
+  rotate: false
+  xy: 131, 309
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 2, 593
+  size: 203, 200
+  orig: 203, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 81, 189
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 158, 6
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 64, 4
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 794
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: 270
+  xy: 98, 28
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: 180
+  xy: 2, 3
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 181, 95
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 87, 7
+  size: 43, 106
+  orig: 45, 106
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 44, 39
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 96
+  size: 101, 108
+  orig: 109, 115
+  offset: 3, 7
+  index: -1

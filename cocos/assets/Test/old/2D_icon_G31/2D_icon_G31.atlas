@@ -1,0 +1,83 @@
+
+2D_icon_G31.png
+size: 208,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fortuna_hat
+  rotate: true
+  xy: 114, 159
+  size: 111, 60
+  orig: 111, 61
+  offset: 0, 1
+  index: -1
+board
+  rotate: false
+  xy: 2, 160
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+board_2
+  rotate: false
+  xy: 99, 94
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: true
+  xy: 133, 32
+  size: 60, 35
+  orig: 63, 38
+  offset: 1, 2
+  index: -1
+cloud_1_copy
+  rotate: true
+  xy: 176, 221
+  size: 49, 30
+  orig: 52, 33
+  offset: 1, 2
+  index: -1
+eft_glow
+  rotate: false
+  xy: 176, 209
+  size: 8, 10
+  orig: 9, 11
+  offset: 0, 1
+  index: -1
+hat_light
+  rotate: true
+  xy: 164, 95
+  size: 62, 38
+  orig: 68, 39
+  offset: 3, 1
+  index: -1
+light
+  rotate: true
+  xy: 68, 2
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+t_sn_146
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+t_sn_225
+  rotate: false
+  xy: 170, 61
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+temple
+  rotate: false
+  xy: 2, 68
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1

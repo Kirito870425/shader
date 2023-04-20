@@ -1,0 +1,111 @@
+
+2D_icon_G7.png
+size: 192,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 118, 187
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+Bottom plate
+  rotate: false
+  xy: 2, 41
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: true
+  xy: 182, 172
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 86, 2
+  size: 29, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 48, 8
+  size: 31, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 179, 102
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Eye_L_CLOSE
+  rotate: false
+  xy: 164, 81
+  size: 12, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 182, 161
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 2, 5
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 118, 136
+  size: 62, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+MOTH1
+  rotate: true
+  xy: 164, 92
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+MOTH2
+  rotate: false
+  xy: 164, 113
+  size: 17, 21
+  orig: 18, 22
+  offset: 0, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 115, 42
+  size: 47, 92
+  orig: 48, 93
+  offset: 0, 1
+  index: -1
+foot
+  rotate: false
+  xy: 117, 26
+  size: 17, 14
+  orig: 18, 15
+  offset: 0, 1
+  index: -1
+frame
+  rotate: false
+  xy: 2, 154
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1

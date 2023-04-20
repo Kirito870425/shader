@@ -1,0 +1,132 @@
+
+2D_icon_G49.webp
+size: 164,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 88
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+H1_body
+  rotate: false
+  xy: 2, 407
+  size: 150, 142
+  orig: 150, 142
+  offset: 0, 0
+  index: -1
+H1_collar
+  rotate: false
+  xy: 52, 2
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+H1_eye_L
+  rotate: false
+  xy: 118, 11
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+H1_eye_R
+  rotate: false
+  xy: 134, 11
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+H1_eyelid_L
+  rotate: false
+  xy: 36, 8
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+H1_eyelid_R
+  rotate: false
+  xy: 52, 6
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+H1_head
+  rotate: 270
+  xy: 84, 27
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: false
+  xy: 2, 38
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 2, 550
+  size: 141, 159
+  orig: 141, 159
+  offset: 0, 0
+  index: -1
+frame_light
+  rotate: false
+  xy: 2, 198
+  size: 145, 103
+  orig: 145, 103
+  offset: 0, 0
+  index: -1
+frame_light2
+  rotate: false
+  xy: 2, 692
+  size: 152, 149
+  orig: 152, 149
+  offset: 0, 0
+  index: -1
+frame_light3
+  rotate: false
+  xy: 2, 303
+  size: 149, 101
+  orig: 149, 101
+  offset: 0, 0
+  index: -1
+ruby_L
+  rotate: false
+  xy: 50, 15
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+ruby_L_light
+  rotate: false
+  xy: 117, 92
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+ruby_R
+  rotate: false
+  xy: 36, 19
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+ruby_R_light
+  rotate: false
+  xy: 117, 137
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+t_ball_03
+  rotate: false
+  xy: 2, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

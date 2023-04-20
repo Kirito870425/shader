@@ -1,0 +1,104 @@
+
+2D_icon_G61.png
+size: 316,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T_Arm_L
+  rotate: false
+  xy: 263, 74
+  size: 49, 52
+  orig: 55, 53
+  offset: 5, 1
+  index: -1
+T_Arm_R
+  rotate: true
+  xy: 238, 40
+  size: 39, 21
+  orig: 40, 22
+  offset: 0, 1
+  index: -1
+T_Body
+  rotate: false
+  xy: 121, 18
+  size: 66, 42
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+T_Eyeball_R
+  rotate: true
+  xy: 121, 2
+  size: 14, 15
+  orig: 14, 16
+  offset: 0, 1
+  index: -1
+T_Eyelid_LD
+  rotate: false
+  xy: 216, 2
+  size: 17, 10
+  orig: 18, 10
+  offset: 1, 0
+  index: -1
+T_Eyelid_LU
+  rotate: false
+  xy: 138, 3
+  size: 17, 13
+  orig: 17, 14
+  offset: 0, 1
+  index: -1
+T_Eyelid_RD
+  rotate: false
+  xy: 238, 23
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+T_Eyelid_RU
+  rotate: false
+  xy: 216, 14
+  size: 17, 16
+  orig: 18, 17
+  offset: 0, 1
+  index: -1
+T_Head
+  rotate: false
+  xy: 261, 29
+  size: 44, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+T_Leg_L
+  rotate: false
+  xy: 189, 5
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+T_Shell
+  rotate: false
+  xy: 187, 81
+  size: 74, 45
+  orig: 74, 46
+  offset: 0, 1
+  index: -1
+light1
+  rotate: false
+  xy: 189, 32
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+ring_plate
+  rotate: false
+  xy: 2, 9
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+t_wave_02
+  rotate: false
+  xy: 121, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+2D_icon_G57.webp
+size: 132,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_01
+  rotate: false
+  xy: 48, 18
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+icon_ball
+  rotate: false
+  xy: 2, 56
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+light_10
+  rotate: true
+  xy: 2, 13
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+spot_05
+  rotate: false
+  xy: 103, 3
+  size: 20, 60
+  orig: 20, 60
+  offset: 0, 0
+  index: -1

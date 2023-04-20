@@ -1,0 +1,55 @@
+
+2D_icon_G1.png
+size: 264,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 141
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+mpc_cattle arm_l
+  rotate: true
+  xy: 209, 65
+  size: 54, 42
+  orig: 55, 43
+  offset: 0, 1
+  index: -1
+mpc_cattle body
+  rotate: false
+  xy: 151, 121
+  size: 108, 62
+  orig: 115, 63
+  offset: 0, 1
+  index: -1
+mpc_cattle head
+  rotate: false
+  xy: 2, 2
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+mpc_cattle_arm_r
+  rotate: false
+  xy: 209, 26
+  size: 49, 37
+  orig: 50, 37
+  offset: 1, 0
+  index: -1
+poker1
+  rotate: false
+  xy: 151, 185
+  size: 102, 103
+  orig: 104, 104
+  offset: 0, 1
+  index: -1
+poker2
+  rotate: false
+  xy: 139, 30
+  size: 68, 89
+  orig: 69, 90
+  offset: 0, 1
+  index: -1

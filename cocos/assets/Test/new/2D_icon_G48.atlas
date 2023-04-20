@@ -1,0 +1,90 @@
+
+2D_icon_G48.webp
+size: 896,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9lizi2
+  rotate: false
+  xy: 723, 7
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 31
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 406, 18
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: true
+  xy: 510, 2
+  size: 181, 92
+  orig: 181, 92
+  offset: 0, 0
+  index: -1
+Light3
+  rotate: true
+  xy: 311, 2
+  size: 181, 93
+  orig: 181, 93
+  offset: 0, 0
+  index: -1
+bonus_drill_01
+  rotate: false
+  xy: 723, 91
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+bonus_drill_02
+  rotate: false
+  xy: 809, 91
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+drill
+  rotate: false
+  xy: 604, 53
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 157, 31
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+gem_green
+  rotate: false
+  xy: 604, 5
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+gem_purple
+  rotate: false
+  xy: 645, 17
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+gem_red
+  rotate: false
+  xy: 682, 19
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

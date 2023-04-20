@@ -1,0 +1,41 @@
+
+2D_icon_Obj4.webp
+size: 132,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0_fm_btn_2_card
+  rotate: false
+  xy: 2, 232
+  size: 125, 150
+  orig: 125, 150
+  offset: 0, 0
+  index: -1
+g0_fm_btn_2_cloud
+  rotate: false
+  xy: 2, 27
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+g0_fm_btn_2_cloud2
+  rotate: false
+  xy: 2, 74
+  size: 115, 60
+  orig: 115, 60
+  offset: 0, 0
+  index: -1
+g0_fm_btn_2_table
+  rotate: false
+  xy: 2, 135
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+g0_fm_btn_2_tassel
+  rotate: 180
+  xy: 81, 3
+  size: 42, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1

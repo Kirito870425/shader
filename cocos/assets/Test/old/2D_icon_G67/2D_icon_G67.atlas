@@ -1,0 +1,90 @@
+
+2D_icon_G67.png
+size: 816,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 348, 57
+  size: 135, 137
+  orig: 136, 138
+  offset: 0, 1
+  index: -1
+backlight_02b
+  rotate: false
+  xy: 2, 3
+  size: 193, 191
+  orig: 193, 191
+  offset: 0, 0
+  index: -1
+dice_L
+  rotate: true
+  xy: 742, 85
+  size: 70, 69
+  orig: 72, 71
+  offset: 1, 1
+  index: -1
+dice_LS
+  rotate: true
+  xy: 666, 85
+  size: 76, 74
+  orig: 85, 84
+  offset: 4, 5
+  index: -1
+dice_M
+  rotate: false
+  xy: 659, 2
+  size: 74, 81
+  orig: 76, 83
+  offset: 1, 1
+  index: -1
+dice_MS
+  rotate: true
+  xy: 485, 2
+  size: 81, 85
+  orig: 90, 96
+  offset: 4, 6
+  index: -1
+dice_R
+  rotate: true
+  xy: 588, 85
+  size: 82, 76
+  orig: 84, 78
+  offset: 1, 1
+  index: -1
+dice_RS
+  rotate: false
+  xy: 572, 3
+  size: 85, 80
+  orig: 96, 91
+  offset: 5, 5
+  index: -1
+lizi3
+  rotate: true
+  xy: 485, 85
+  size: 109, 101
+  orig: 109, 101
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 197, 44
+  size: 149, 150
+  orig: 150, 151
+  offset: 0, 1
+  index: -1
+ring_light
+  rotate: true
+  xy: 735, 8
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+t_ball
+  rotate: false
+  xy: 197, 10
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

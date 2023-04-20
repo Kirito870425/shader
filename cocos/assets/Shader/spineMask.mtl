@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "spineMask",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "2408807f-2ac0-41ff-9702-eafa4ca3f85a"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

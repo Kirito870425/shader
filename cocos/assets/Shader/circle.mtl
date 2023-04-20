@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.Material",
+  "_name": "Circle",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "78b0abae-319a-4305-8394-89c0ee6f57a8"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": false,
+        "INPUT_IS_GAMMA": false
+      },
+      "props": {
+        "center": {
+          "__type__": "cc.Vec2",
+          "x": 0.5,
+          "y": 0.5
+        },
+        "radius": 0.25
+      }
+    }
+  }
+}

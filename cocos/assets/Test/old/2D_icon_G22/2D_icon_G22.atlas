@@ -1,0 +1,62 @@
+
+2D_icon_G22.png
+size: 316,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+close_Eyebrow
+  rotate: false
+  xy: 130, 7
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+close_Horn
+  rotate: false
+  xy: 219, 4
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+close_beard_01
+  rotate: false
+  xy: 2, 2
+  size: 215, 2
+  orig: 216, 2
+  offset: 0, 0
+  index: -1
+close_head_DW
+  rotate: true
+  xy: 270, 10
+  size: 34, 32
+  orig: 34, 33
+  offset: 0, 1
+  index: -1
+close_head_UP
+  rotate: false
+  xy: 219, 46
+  size: 69, 69
+  orig: 70, 70
+  offset: 0, 1
+  index: -1
+eye_light2
+  rotate: true
+  xy: 290, 81
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+wire
+  rotate: false
+  xy: 2, 6
+  size: 126, 109
+  orig: 129, 112
+  offset: 1, 2
+  index: -1
+wire_light
+  rotate: false
+  xy: 130, 25
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1

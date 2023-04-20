@@ -1,0 +1,76 @@
+
+2D_icon_G2.png
+size: 348,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 58
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+eyebrown_L
+  rotate: true
+  xy: 104, 14
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+eyebrown_R
+  rotate: true
+  xy: 125, 21
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+mpc_cattle arm_l
+  rotate: false
+  xy: 45, 21
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+mpc_cattle arm_r
+  rotate: true
+  xy: 2, 16
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+mpc_cattle body
+  rotate: false
+  xy: 151, 2
+  size: 118, 62
+  orig: 118, 64
+  offset: 0, 1
+  index: -1
+mpc_cattle head
+  rotate: true
+  xy: 151, 66
+  size: 139, 123
+  orig: 140, 125
+  offset: 0, 1
+  index: -1
+poker1
+  rotate: true
+  xy: 271, 6
+  size: 58, 67
+  orig: 59, 67
+  offset: 1, 0
+  index: -1
+poker2
+  rotate: true
+  xy: 276, 67
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+poker3
+  rotate: true
+  xy: 276, 135
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1

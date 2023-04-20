@@ -1,0 +1,16 @@
+{
+    "name": "orientation-tool",
+    "version": "0.0.1",
+    "description": "orientation",
+    "author": "",
+    "main": "main.js",
+    "main-menu": {
+        "專案工具/轉直版": {
+            "message": "orientation-tool:toVertical"
+        },
+        "專案工具/轉橫版": {
+            "message": "orientation-tool:toHorizontal"
+        }
+    },
+    "scene-script": "orientation.js"
+}

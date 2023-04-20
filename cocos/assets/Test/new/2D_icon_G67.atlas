@@ -1,0 +1,90 @@
+
+2D_icon_G67.webp
+size: 744,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 349, 101
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+backlight_02b
+  rotate: false
+  xy: 2, 48
+  size: 193, 191
+  orig: 193, 191
+  offset: 0, 0
+  index: -1
+dice_L
+  rotate: true
+  xy: 668, 130
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+dice_LS
+  rotate: false
+  xy: 197, 2
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+dice_M
+  rotate: false
+  xy: 590, 130
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+dice_MS
+  rotate: true
+  xy: 349, 9
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+dice_R
+  rotate: true
+  xy: 585, 44
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+dice_RS
+  rotate: false
+  xy: 487, 37
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+lizi3
+  rotate: true
+  xy: 487, 130
+  size: 109, 101
+  orig: 109, 101
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 197, 88
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+ring_light
+  rotate: true
+  xy: 665, 53
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+t_ball
+  rotate: false
+  xy: 2, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

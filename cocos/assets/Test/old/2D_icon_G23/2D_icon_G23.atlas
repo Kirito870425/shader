@@ -1,0 +1,202 @@
+
+2D_icon_G23.png
+size: 616,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 251, 70
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+Bruce Lee_light
+  rotate: true
+  xy: 386, 85
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1
+Bruce Lee_light_2
+  rotate: true
+  xy: 290, 2
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+Bruce Lee_light_3
+  rotate: false
+  xy: 554, 137
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Nunchakus chain
+  rotate: true
+  xy: 554, 165
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Nunchakus shadown
+  rotate: false
+  xy: 386, 70
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+Nunchakus02
+  rotate: false
+  xy: 151, 4
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: false
+  xy: 481, 10
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 433, 4
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 153, 64
+  size: 96, 142
+  orig: 96, 142
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 181, 57
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 168, 57
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+eyeball_L
+  rotate: true
+  xy: 161, 56
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+eyeball_R
+  rotate: false
+  xy: 153, 56
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+eyebrow_L
+  rotate: true
+  xy: 420, 70
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+eyebrow_R
+  rotate: true
+  xy: 593, 144
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+eyelid_L
+  rotate: true
+  xy: 566, 63
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+eyelid_R
+  rotate: true
+  xy: 566, 76
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 82, 3
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+finger_R
+  rotate: true
+  xy: 2, 2
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+foream_R
+  rotate: false
+  xy: 381, 4
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 56
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: true
+  xy: 243, 2
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: true
+  xy: 536, 93
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 493, 136
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 493, 92
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 595, 172
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+spark_1
+  rotate: false
+  xy: 595, 190
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+2D_icon_G1.webp
+size: 508,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+mpc_cattle arm_l
+  rotate: false
+  xy: 431, 5
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+mpc_cattle body
+  rotate: true
+  xy: 442, 42
+  size: 108, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+mpc_cattle head
+  rotate: false
+  xy: 151, 12
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+mpc_cattle_arm_r
+  rotate: false
+  xy: 277, 3
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+poker1
+  rotate: 180
+  xy: 354, 14
+  size: 102, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+poker2
+  rotate: false
+  xy: 288, 60
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1

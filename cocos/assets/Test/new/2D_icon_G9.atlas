@@ -1,0 +1,160 @@
+
+2D_icon_G9.webp
+size: 496,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board
+  rotate: true
+  xy: 253, 18
+  size: 118, 30
+  orig: 118, 30
+  offset: 0, 0
+  index: -1
+Circular_plate
+  rotate: false
+  xy: 2, 13
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+Eye_Close
+  rotate: false
+  xy: 212, 2
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 127, 40
+  size: 69, 97
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: 270
+  xy: 127, 10
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 379, 15
+  size: 24, 82
+  orig: 29, 85
+  offset: 5, 3
+  index: -1
+Hand
+  rotate: true
+  xy: 464, 42
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 325, 27
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+O_01
+  rotate: false
+  xy: 190, 24
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+O_02
+  rotate: false
+  xy: 383, 65
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 285, 44
+  size: 92, 39
+  orig: 92, 39
+  offset: 0, 0
+  index: -1
+brow_L
+  rotate: false
+  xy: 25, 4
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+brow_R
+  rotate: false
+  xy: 2, 3
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 350, 8
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 329, 8
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: 180
+  xy: 285, 4
+  size: 43, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 455, 4
+  size: 29, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hair_rea
+  rotate: false
+  xy: 449, 111
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 325, 77
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+side_hair_L
+  rotate: false
+  xy: 428, 36
+  size: 25, 89
+  orig: 25, 89
+  offset: 0, 0
+  index: -1
+side_hair_R
+  rotate: 180
+  xy: 445, 37
+  size: 26, 88
+  orig: 26, 88
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 47, 4
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1

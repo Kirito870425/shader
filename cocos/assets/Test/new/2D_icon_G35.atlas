@@ -1,0 +1,279 @@
+
+2D_icon_G35.webp
+size: 1320,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: 180
+  xy: 824, 8
+  size: 117, 251
+  orig: 117, 251
+  offset: 0, 0
+  index: -1
+arm_R_N
+  rotate: false
+  xy: 988, 18
+  size: 75, 141
+  orig: 75, 141
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 449, 20
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 270, 42
+  size: 177, 296
+  orig: 177, 492
+  offset: 0, 196
+  index: -1
+brow_01_L
+  rotate: false
+  xy: 231, 284
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+brow_01_R
+  rotate: false
+  xy: 207, 318
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+chest_L
+  rotate: false
+  xy: 1109, 242
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+chest_R
+  rotate: true
+  xy: 1120, 4
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+coin_01
+  rotate: false
+  xy: 2, 302
+  size: 39, 35
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+edge
+  rotate: true
+  xy: 1262, 174
+  size: 138, 52
+  orig: 138, 52
+  offset: 0, 0
+  index: -1
+eye_00
+  rotate: false
+  xy: 598, 80
+  size: 212, 80
+  orig: 212, 80
+  offset: 0, 0
+  index: -1
+eye_01_L
+  rotate: false
+  xy: 1191, 156
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+eye_01_R
+  rotate: false
+  xy: 1216, 9
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+eyelid_01_L
+  rotate: false
+  xy: 263, 321
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+eyelid_01_R
+  rotate: false
+  xy: 42, 323
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+face_B
+  rotate: false
+  xy: 2, 47
+  size: 291, 290
+  orig: 291, 290
+  offset: 0, 0
+  index: -1
+fan_N
+  rotate: 270
+  xy: 589, 162
+  size: 175, 155
+  orig: 175, 155
+  offset: 0, 0
+  index: -1
+finger_R_N
+  rotate: false
+  xy: 1238, 213
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+hair_00
+  rotate: false
+  xy: 441, 169
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 1182, 253
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 129, 7
+  size: 56, 126
+  orig: 56, 126
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: 180
+  xy: 748, 33
+  size: 130, 268
+  orig: 130, 268
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 904, 10
+  size: 125, 266
+  orig: 125, 266
+  offset: 0, 0
+  index: -1
+hair_05
+  rotate: 180
+  xy: 959, 250
+  size: 149, 87
+  orig: 149, 87
+  offset: 0, 0
+  index: -1
+hairpin
+  rotate: false
+  xy: 598, 10
+  size: 180, 68
+  orig: 180, 68
+  offset: 0, 0
+  index: -1
+hand_R_N
+  rotate: false
+  xy: 1247, 112
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+knot
+  rotate: false
+  xy: 250, 4
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+lash_01_L
+  rotate: false
+  xy: 428, 5
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+lash_01_R
+  rotate: false
+  xy: 1249, 91
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+lash_02_L
+  rotate: false
+  xy: 184, 300
+  size: 97, 37
+  orig: 97, 37
+  offset: 0, 0
+  index: -1
+lash_02_R
+  rotate: false
+  xy: 296, 4
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: 270
+  xy: 2, 5
+  size: 91, 114
+  orig: 117, 375
+  offset: 0, 261
+  index: -1
+light
+  rotate: 180
+  xy: 1110, 139
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 1065, 3
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+shawl_L
+  rotate: false
+  xy: 1065, 63
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+shawl_R_N
+  rotate: 270
+  xy: 1160, 62
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+t_ball_01
+  rotate: false
+  xy: 394, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tassel
+  rotate: false
+  xy: 1267, 9
+  size: 20, 80
+  orig: 20, 80
+  offset: 0, 0
+  index: -1
+wrist_R_N
+  rotate: true
+  xy: 1031, 161
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1

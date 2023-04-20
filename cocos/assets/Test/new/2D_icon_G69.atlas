@@ -1,0 +1,125 @@
+
+2D_icon_G69.webp
+size: 388,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 240
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+BG_light
+  rotate: false
+  xy: 221, 93
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+BG_star_L
+  rotate: false
+  xy: 222, 2
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+BG_star_R
+  rotate: false
+  xy: 73, 26
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Have Fun
+  rotate: false
+  xy: 69, 5
+  size: 93, 19
+  orig: 93, 19
+  offset: 0, 0
+  index: -1
+Have Fun_light
+  rotate: false
+  xy: 124, 26
+  size: 96, 23
+  orig: 96, 23
+  offset: 0, 0
+  index: -1
+decorative_frame
+  rotate: false
+  xy: 2, 125
+  size: 217, 113
+  orig: 217, 113
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 162, 240
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+lamp
+  rotate: false
+  xy: 39, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+lamp_light
+  rotate: false
+  xy: 346, 14
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 2, 10
+  size: 71, 64
+  orig: 132, 64
+  offset: 38, 0
+  index: -1
+line
+  rotate: false
+  xy: 133, 51
+  size: 136, 40
+  orig: 136, 40
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 271, 20
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 346, 50
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+star2_light
+  rotate: true
+  xy: 133, 94
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+word
+  rotate: false
+  xy: 2, 75
+  size: 129, 48
+  orig: 129, 48
+  offset: 0, 0
+  index: -1
+word_light
+  rotate: true
+  xy: 317, 240
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+2D_icon_Obj5.png
+size: 548,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0_fm_btn_3_card
+  rotate: true
+  xy: 2, 2
+  size: 116, 136
+  orig: 116, 136
+  offset: 0, 0
+  index: -1
+g0_fm_btn_3_cloud
+  rotate: false
+  xy: 441, 74
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+g0_fm_btn_3_cloud2
+  rotate: true
+  xy: 380, 4
+  size: 114, 59
+  orig: 115, 60
+  offset: 0, 1
+  index: -1
+g0_fm_btn_3_flower
+  rotate: false
+  xy: 140, 34
+  size: 141, 84
+  orig: 143, 85
+  offset: 0, 1
+  index: -1
+g0_fm_btn_3_key
+  rotate: false
+  xy: 441, 12
+  size: 56, 60
+  orig: 57, 61
+  offset: 0, 1
+  index: -1
+g0_fm_btn_3_table
+  rotate: true
+  xy: 283, 9
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1

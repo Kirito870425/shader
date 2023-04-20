@@ -1,0 +1,174 @@
+
+2D_icon_G73.webp
+size: 148,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 181
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: 270
+  xy: 29, 5
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+arm_R_V
+  rotate: 180
+  xy: 85, 3
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 85, 107
+  size: 53, 59
+  orig: 53, 76
+  offset: 0, 17
+  index: -1
+brow_01_L
+  rotate: false
+  xy: 2, 4
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+brow_01_R
+  rotate: true
+  xy: 137, 21
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+eye_00
+  rotate: false
+  xy: 58, 33
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+eye_01_R
+  rotate: false
+  xy: 129, 5
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+eyelid_01_L
+  rotate: false
+  xy: 82, 3
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+eyelid_01_R
+  rotate: false
+  xy: 131, 158
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+face_V
+  rotate: false
+  xy: 2, 106
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 311
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 2, 25
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: 270
+  xy: 26, 55
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 101, 51
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+lash_00_R
+  rotate: false
+  xy: 118, 45
+  size: 12, 2
+  orig: 12, 2
+  offset: 0, 0
+  index: -1
+lash_01_R
+  rotate: false
+  xy: 41, 4
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+lash_02_L
+  rotate: true
+  xy: 71, 6
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 21, 5
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 10
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+pocket
+  rotate: false
+  xy: 107, 166
+  size: 32, 12
+  orig: 38, 20
+  offset: 0, 8
+  index: -1
+rope_L
+  rotate: false
+  xy: 135, 99
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+rope_R
+  rotate: false
+  xy: 131, 21
+  size: 4, 23
+  orig: 4, 23
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 127, 69
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

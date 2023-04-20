@@ -1,0 +1,19 @@
+{
+  "name": "editor-tool",
+  "version": "0.0.1",
+  "description": "editor",
+  "author": "",
+  "main": "main.js",
+  "main-menu": {
+    "專案工具/查找未使用資源": {
+      "message": "editor-tool:findUnuseAsserts"
+    },
+    "專案工具/更換系統預設字/微軟雅黑": {
+      "message": "editor-tool:changeFontToMicrosoftYahei"
+    },
+    "專案工具/更換系統預設字/Arial": {
+      "message": "editor-tool:changeFontToArial"
+    }
+  },
+  "scene-script": "FontTool/FontTool.js"
+}

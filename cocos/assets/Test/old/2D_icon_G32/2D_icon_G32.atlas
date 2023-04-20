@@ -1,0 +1,104 @@
+
+2D_icon_G32.png
+size: 256,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 42
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+BG_A
+  rotate: false
+  xy: 33, 3
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 119, 156
+  size: 72, 114
+  orig: 72, 115
+  offset: 0, 1
+  index: -1
+Moustache
+  rotate: true
+  xy: 91, 6
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 115, 7
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+eyebrown
+  rotate: true
+  xy: 238, 219
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 155
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+frame_A
+  rotate: false
+  xy: 188, 91
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2, 2
+  size: 38, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 193, 164
+  size: 49, 33
+  orig: 49, 34
+  offset: 0, 1
+  index: -1
+scarf
+  rotate: true
+  xy: 115, 76
+  size: 77, 71
+  orig: 77, 72
+  offset: 0, 1
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 193, 199
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+sleeve_L
+  rotate: true
+  xy: 188, 53
+  size: 36, 40
+  orig: 36, 41
+  offset: 0, 1
+  index: -1
+sleeve_b
+  rotate: false
+  xy: 187, 14
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+2D_icon_G56.png
+size: 408,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 242, 151
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+backlight_03b
+  rotate: false
+  xy: 2, 151
+  size: 238, 238
+  orig: 256, 256
+  offset: 9, 9
+  index: -1
+body
+  rotate: false
+  xy: 242, 298
+  size: 128, 66
+  orig: 184, 120
+  offset: 27, 54
+  index: -1
+brow_L
+  rotate: false
+  xy: 274, 382
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+brow_R
+  rotate: false
+  xy: 274, 368
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 343, 340
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 323, 3
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 290, 364
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 290, 382
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+eyelid_L
+  rotate: false
+  xy: 242, 343
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+eyelid_R
+  rotate: false
+  xy: 242, 301
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+eyewhite_L
+  rotate: false
+  xy: 259, 358
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+eyewhite_R
+  rotate: false
+  xy: 242, 354
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+frame_01
+  rotate: false
+  xy: 2, 2
+  size: 147, 147
+  orig: 149, 149
+  offset: 1, 1
+  index: -1
+frame_02
+  rotate: false
+  xy: 151, 4
+  size: 145, 145
+  orig: 151, 151
+  offset: 3, 3
+  index: -1
+head
+  rotate: false
+  xy: 298, 48
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+nose_01
+  rotate: false
+  xy: 366, 42
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+nose_02
+  rotate: false
+  xy: 242, 368
+  size: 34, 22
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+t_ball
+  rotate: false
+  xy: 370, 109
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tassel_L
+  rotate: false
+  xy: 330, 360
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+tassel_R
+  rotate: false
+  xy: 298, 37
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1

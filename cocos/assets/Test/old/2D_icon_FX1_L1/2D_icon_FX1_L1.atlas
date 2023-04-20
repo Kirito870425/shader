@@ -1,0 +1,139 @@
+
+2D_icon_FX1_L1.png
+size: 192,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 66, 87
+  size: 117, 54
+  orig: 117, 54
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: true
+  xy: 2, 10
+  size: 131, 62
+  orig: 131, 62
+  offset: 0, 0
+  index: -1
+gold
+  rotate: true
+  xy: 66, 61
+  size: 24, 23
+  orig: 24, 24
+  offset: 0, 1
+  index: -1
+gold10
+  rotate: true
+  xy: 166, 39
+  size: 22, 23
+  orig: 23, 24
+  offset: 0, 1
+  index: -1
+gold11
+  rotate: true
+  xy: 166, 63
+  size: 22, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+gold12
+  rotate: false
+  xy: 66, 9
+  size: 23, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gold13
+  rotate: false
+  xy: 141, 62
+  size: 23, 23
+  orig: 23, 24
+  offset: 0, 1
+  index: -1
+gold14
+  rotate: true
+  xy: 162, 19
+  size: 18, 22
+  orig: 18, 23
+  offset: 0, 1
+  index: -1
+gold15
+  rotate: true
+  xy: 116, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+gold16
+  rotate: true
+  xy: 140, 42
+  size: 18, 23
+  orig: 18, 24
+  offset: 0, 1
+  index: -1
+gold17
+  rotate: true
+  xy: 139, 18
+  size: 20, 21
+  orig: 20, 22
+  offset: 0, 1
+  index: -1
+gold2
+  rotate: true
+  xy: 175, 7
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+gold3
+  rotate: true
+  xy: 162, 2
+  size: 15, 11
+  orig: 15, 12
+  offset: 0, 1
+  index: -1
+gold4
+  rotate: false
+  xy: 116, 16
+  size: 21, 21
+  orig: 21, 22
+  offset: 0, 1
+  index: -1
+gold5
+  rotate: false
+  xy: 91, 62
+  size: 23, 23
+  orig: 23, 24
+  offset: 0, 1
+  index: -1
+gold6
+  rotate: false
+  xy: 91, 37
+  size: 23, 23
+  orig: 24, 24
+  offset: 0, 1
+  index: -1
+gold7
+  rotate: false
+  xy: 91, 12
+  size: 23, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+gold8
+  rotate: false
+  xy: 66, 35
+  size: 23, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gold9
+  rotate: false
+  xy: 116, 62
+  size: 23, 23
+  orig: 24, 24
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+2D_icon_G68.png
+size: 152,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_car
+  rotate: false
+  xy: 2, 151
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+flag_L
+  rotate: false
+  xy: 2, 3
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+flag_R
+  rotate: false
+  xy: 2, 72
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+red_car
+  rotate: false
+  xy: 2, 217
+  size: 147, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+t_rold_01
+  rotate: false
+  xy: 127, 134
+  size: 19, 77
+  orig: 19, 77
+  offset: 0, 0
+  index: -1
+t_spot_02
+  rotate: false
+  xy: 2, 40
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+t_spotlight_01
+  rotate: false
+  xy: 103, 79
+  size: 44, 53
+  orig: 64, 64
+  offset: 11, 11
+  index: -1
+wheel
+  rotate: false
+  xy: 2, 302
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1

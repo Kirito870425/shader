@@ -1,0 +1,97 @@
+
+2D_icon_G45.png
+size: 160,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2Dicon
+  rotate: false
+  xy: 2, 608
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+Arm
+  rotate: 180
+  xy: 62, 106
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 462
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 345
+  size: 115, 134
+  orig: 115, 134
+  offset: 0, 0
+  index: -1
+H2_Light
+  rotate: false
+  xy: 68, 53
+  size: 56, 51
+  orig: 60, 60
+  offset: 1, 4
+  index: -1
+Hair
+  rotate: 270
+  xy: 110, 3
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 160
+  size: 87, 54
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 22
+  size: 43, 53
+  orig: 46, 57
+  offset: 2, 2
+  index: -1
+Mouth
+  rotate: false
+  xy: 57, 10
+  size: 51, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: true
+  xy: 28, 215
+  size: 79, 122
+  orig: 79, 122
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: 270
+  xy: 5, 291
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+h2_pt
+  rotate: false
+  xy: 2, 5
+  size: 14, 15
+  orig: 16, 16
+  offset: 1, 0
+  index: -1
+h3_smoke
+  rotate: true
+  xy: 2, 67
+  size: 62, 64
+  orig: 70, 70
+  offset: 5, 3
+  index: -1

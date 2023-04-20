@@ -1,0 +1,265 @@
+
+2D_icon_Obj2.webp
+size: 188,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0_cl_btn_2__rope_r1-1
+  rotate: false
+  xy: 73, 450
+  size: 10, 8
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_banbooshadow
+  rotate: false
+  xy: 2, 312
+  size: 165, 145
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_bottle
+  rotate: true
+  xy: 55, 203
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_brush
+  rotate: true
+  xy: 96, 153
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_chip1
+  rotate: 180
+  xy: 84, 58
+  size: 99, 37
+  orig: 100, 43
+  offset: 0, 5
+  index: -1
+g0_cl_btn_2_chip2
+  rotate: 180
+  xy: 2, 62
+  size: 82, 59
+  orig: 86, 64
+  offset: 2, 5
+  index: -1
+g0_cl_btn_2_chip3
+  rotate: false
+  xy: 19, 95
+  size: 83, 50
+  orig: 84, 51
+  offset: 0, 1
+  index: -1
+g0_cl_btn_2_chip4
+  rotate: 180
+  xy: 75, 112
+  size: 93, 41
+  orig: 94, 42
+  offset: 1, 1
+  index: -1
+g0_cl_btn_2_chip5
+  rotate: 180
+  xy: 2, 30
+  size: 74, 58
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_chip6
+  rotate: 180
+  xy: 2, 146
+  size: 93, 58
+  orig: 95, 59
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_cup
+  rotate: true
+  xy: 2, 4
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower1
+  rotate: false
+  xy: 156, 215
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower10
+  rotate: false
+  xy: 33, 437
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower11
+  rotate: false
+  xy: 76, 32
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower12
+  rotate: false
+  xy: 161, 372
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower13
+  rotate: 180
+  xy: 61, 20
+  size: 106, 27
+  orig: 106, 27
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower2
+  rotate: false
+  xy: 2, 427
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower3
+  rotate: false
+  xy: 156, 246
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower4
+  rotate: false
+  xy: 2, 406
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower5
+  rotate: false
+  xy: 152, 88
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower6
+  rotate: false
+  xy: 169, 41
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower7
+  rotate: false
+  xy: 2, 386
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower8
+  rotate: false
+  xy: 2, 368
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_flower9
+  rotate: false
+  xy: 38, 11
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_l3
+  rotate: false
+  xy: 174, 112
+  size: 11, 17
+  orig: 13, 22
+  offset: 0, 3
+  index: -1
+g0_cl_btn_2_l4
+  rotate: false
+  xy: 106, 373
+  size: 14, 17
+  orig: 17, 20
+  offset: 2, 1
+  index: -1
+g0_cl_btn_2_l5
+  rotate: false
+  xy: 55, 444
+  size: 19, 14
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_r3
+  rotate: false
+  xy: 91, 5
+  size: 6, 14
+  orig: 9, 15
+  offset: 2, 0
+  index: -1
+g0_cl_btn_2_r4
+  rotate: false
+  xy: 24, 413
+  size: 7, 13
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+g0_cl_btn_2_r5
+  rotate: false
+  xy: 98, 6
+  size: 10, 11
+  orig: 13, 15
+  offset: 0, 1
+  index: -1
+g0_cl_btn_2_rope_l1-1
+  rotate: false
+  xy: 77, 6
+  size: 13, 11
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+g0_cl_btn_2_rope_l2
+  rotate: false
+  xy: 168, 5
+  size: 10, 19
+  orig: 15, 22
+  offset: 1, 1
+  index: -1
+g0_cl_btn_2_rope_r1-2
+  rotate: false
+  xy: 5, 359
+  size: 13, 9
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_rope_r2
+  rotate: false
+  xy: 109, 5
+  size: 6, 14
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_rope_r2-2
+  rotate: false
+  xy: 59, 6
+  size: 17, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_tray
+  rotate: false
+  xy: 2, 458
+  size: 178, 81
+  orig: 178, 81
+  offset: 0, 0
+  index: -1
+g0_cl_btn_2_trunk
+  rotate: false
+  xy: 19, 254
+  size: 159, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1

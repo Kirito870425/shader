@@ -1,0 +1,76 @@
+
+2D_icon_G66.png
+size: 156,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circular_plate
+  rotate: true
+  xy: 2, 475
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 2, 51
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+coin_02
+  rotate: false
+  xy: 89, 2
+  size: 61, 50
+  orig: 63, 50
+  offset: 1, 0
+  index: -1
+coin_S
+  rotate: true
+  xy: 89, 54
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+eft_glow
+  rotate: false
+  xy: 2, 17
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+poker_01
+  rotate: true
+  xy: 2, 129
+  size: 96, 126
+  orig: 99, 128
+  offset: 2, 1
+  index: -1
+poker_02
+  rotate: true
+  xy: 2, 343
+  size: 130, 138
+  orig: 134, 141
+  offset: 2, 2
+  index: -1
+ring
+  rotate: false
+  xy: 2, 622
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 29
+  size: 20, 20
+  orig: 25, 22
+  offset: 3, 1
+  index: -1
+t_yellow_ring
+  rotate: true
+  xy: 2, 227
+  size: 114, 118
+  orig: 128, 128
+  offset: 7, 5
+  index: -1

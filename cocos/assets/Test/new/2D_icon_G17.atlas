@@ -1,0 +1,111 @@
+
+2D_icon_G17.webp
+size: 568,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuanYu_Back
+  rotate: false
+  xy: 86, 4
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+GuanYu_arm_L_down
+  rotate: 270
+  xy: 506, 7
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+GuanYu_arm_L_up
+  rotate: false
+  xy: 465, 6
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+GuanYu_belt
+  rotate: false
+  xy: 263, 6
+  size: 111, 37
+  orig: 119, 59
+  offset: 8, 22
+  index: -1
+GuanYu_body_1
+  rotate: 180
+  xy: 365, 22
+  size: 107, 111
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+GuanYu_eyebrown
+  rotate: true
+  xy: 531, 61
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+GuanYu_eyes
+  rotate: false
+  xy: 2, 11
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+GuanYu_face
+  rotate: false
+  xy: 151, 3
+  size: 114, 182
+  orig: 114, 182
+  offset: 0, 0
+  index: -1
+GuanYu_finger
+  rotate: false
+  xy: 121, 5
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+GuanYu_hand_L
+  rotate: false
+  xy: 386, 132
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+GuanYu_hand_R
+  rotate: false
+  xy: 151, 152
+  size: 21, 34
+  orig: 21, 38
+  offset: 0, 1
+  index: -1
+GuanYu_scarf
+  rotate: false
+  xy: 253, 44
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1
+GuanYu_shoulder
+  rotate: true
+  xy: 459, 96
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+GuanYu_thumb
+  rotate: false
+  xy: 151, 137
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 38
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1

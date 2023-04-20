@@ -1,0 +1,125 @@
+
+2D_icon_G47.webp
+size: 1036,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 157, 19
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+BG_light
+  rotate: false
+  xy: 450, 48
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+P01
+  rotate: false
+  xy: 806, 76
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 17
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 968, 17
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+heart_light
+  rotate: false
+  xy: 806, 2
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+plumBossom
+  rotate: false
+  xy: 973, 122
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+plumBossom_light
+  rotate: false
+  xy: 501, 4
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+ring_glow
+  rotate: true
+  xy: 729, 33
+  size: 137, 75
+  orig: 137, 75
+  offset: 0, 0
+  index: -1
+ring_glow2
+  rotate: true
+  xy: 573, 24
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+ring_glow3
+  rotate: true
+  xy: 652, 32
+  size: 138, 75
+  orig: 138, 75
+  offset: 0, 0
+  index: -1
+ring_light
+  rotate: false
+  xy: 308, 30
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+spades
+  rotate: true
+  xy: 889, 8
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+spades_light
+  rotate: false
+  xy: 889, 84
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 308, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+square_light
+  rotate: false
+  xy: 973, 84
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+start_light
+  rotate: false
+  xy: 450, 2
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1

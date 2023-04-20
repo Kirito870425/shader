@@ -1,0 +1,83 @@
+
+2D_icon_G62.png
+size: 160,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_bg
+  rotate: false
+  xy: 2, 719
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+DESK
+  rotate: false
+  xy: 2, 344
+  size: 156, 96
+  orig: 156, 96
+  offset: 0, 0
+  index: -1
+coin_L
+  rotate: true
+  xy: 2, 234
+  size: 109, 111
+  orig: 111, 112
+  offset: 1, 1
+  index: -1
+coin_R
+  rotate: false
+  xy: 2, 142
+  size: 117, 93
+  orig: 118, 93
+  offset: 0, 0
+  index: -1
+coin_sd
+  rotate: false
+  xy: 2, 38
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 568
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+frame_light
+  rotate: false
+  xy: 2, 64
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 5
+  size: 30, 31
+  orig: 38, 34
+  offset: 4, 1
+  index: -1
+particle
+  rotate: false
+  xy: 79, 67
+  size: 67, 72
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+particle2
+  rotate: false
+  xy: 2, 442
+  size: 144, 124
+  orig: 144, 136
+  offset: 0, 0
+  index: -1
+t_glow_06
+  rotate: false
+  xy: 79, 3
+  size: 63, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1

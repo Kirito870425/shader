@@ -1,0 +1,83 @@
+
+2D_icon_G43.webp
+size: 160,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1_CD
+  rotate: false
+  xy: 2, 58
+  size: 110, 71
+  orig: 110, 71
+  offset: 0, 0
+  index: -1
+H1_CD_Circle
+  rotate: false
+  xy: 2, 246
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+H1_CD_Circle_light
+  rotate: false
+  xy: 2, 131
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+H1_Pin
+  rotate: false
+  xy: 2, 2
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+H1_Pin_shadow
+  rotate: false
+  xy: 73, 6
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+H1_base
+  rotate: false
+  xy: 2, 361
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+ball_01
+  rotate: false
+  xy: 117, 104
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 488
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+light_10
+  rotate: false
+  xy: 114, 58
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+note_01
+  rotate: false
+  xy: 138, 29
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+note_02
+  rotate: false
+  xy: 138, 41
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1

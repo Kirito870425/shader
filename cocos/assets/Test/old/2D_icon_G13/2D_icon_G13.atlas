@@ -1,0 +1,167 @@
+
+2D_icon_G13.png
+size: 572,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 431, 81
+  size: 78, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+Brow_L
+  rotate: false
+  xy: 30, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Brow_R
+  rotate: false
+  xy: 2, 7
+  size: 26, 4
+  orig: 26, 4
+  offset: 0, 0
+  index: -1
+Circular_plate
+  rotate: false
+  xy: 117, 15
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+Circular_plate_2
+  rotate: false
+  xy: 467, 3
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 52, 5
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 43, 3
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Eye_W
+  rotate: false
+  xy: 431, 61
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 368, 56
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 229, 42
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+Hair_B01
+  rotate: false
+  xy: 325, 18
+  size: 50, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+Hair_B02
+  rotate: false
+  xy: 281, 6
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 524, 19
+  size: 23, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Hair_R1
+  rotate: true
+  xy: 524, 45
+  size: 29, 42
+  orig: 30, 43
+  offset: 0, 1
+  index: -1
+Hair_R2
+  rotate: true
+  xy: 344, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 229, 11
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 549, 20
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Ribbon
+  rotate: false
+  xy: 301, 46
+  size: 65, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Stick
+  rotate: false
+  xy: 377, 7
+  size: 88, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+Tooth_D
+  rotate: false
+  xy: 117, 3
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Tooth_U
+  rotate: false
+  xy: 325, 3
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 13
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+t_g13frame_01
+  rotate: false
+  xy: 511, 76
+  size: 58, 50
+  orig: 58, 58
+  offset: 0, 8
+  index: -1

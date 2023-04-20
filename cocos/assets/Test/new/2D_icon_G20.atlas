@@ -1,0 +1,139 @@
+
+2D_icon_G20.webp
+size: 152,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: true
+  xy: 101, 51
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+BONUS_light
+  rotate: false
+  xy: 115, 256
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Bottom plate
+  rotate: false
+  xy: 2, 226
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Candy canes
+  rotate: true
+  xy: 101, 7
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 2, 2
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+H1_light
+  rotate: false
+  xy: 115, 286
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 112, 184
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 118, 95
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+H3_light
+  rotate: false
+  xy: 123, 344
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Lollipop
+  rotate: true
+  xy: 47, 4
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+N2
+  rotate: false
+  xy: 112, 144
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+N2_light
+  rotate: false
+  xy: 123, 317
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+N4
+  rotate: false
+  xy: 115, 223
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+N4_light
+  rotate: false
+  xy: 123, 374
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 339
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+frame_light
+  rotate: false
+  xy: 2, 460
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 2, 144
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+pot_F
+  rotate: false
+  xy: 2, 41
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 95
+  size: 114, 47
+  orig: 114, 47
+  offset: 0, 0
+  index: -1

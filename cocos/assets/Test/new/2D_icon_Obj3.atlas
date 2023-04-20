@@ -1,0 +1,139 @@
+
+2D_icon_Obj3.webp
+size: 408,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0_cl_btn_17_bottle
+  rotate: true
+  xy: 181, 73
+  size: 61, 124
+  orig: 61, 124
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_cup1
+  rotate: false
+  xy: 91, 14
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_cup1_b
+  rotate: false
+  xy: 172, 4
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_cup2
+  rotate: false
+  xy: 2, 8
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower1
+  rotate: true
+  xy: 341, 3
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower10
+  rotate: true
+  xy: 375, 56
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower11
+  rotate: false
+  xy: 133, 15
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower12
+  rotate: true
+  xy: 371, 33
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower2
+  rotate: false
+  xy: 172, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower3
+  rotate: false
+  xy: 365, 86
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower4
+  rotate: false
+  xy: 371, 11
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower5
+  rotate: false
+  xy: 360, 112
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower6
+  rotate: true
+  xy: 294, 4
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower7
+  rotate: false
+  xy: 388, 78
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower8
+  rotate: true
+  xy: 276, 3
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_flower9
+  rotate: true
+  xy: 384, 110
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_mahjong
+  rotate: false
+  xy: 47, 12
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_tray
+  rotate: false
+  xy: 2, 52
+  size: 178, 83
+  orig: 178, 83
+  offset: 0, 0
+  index: -1
+g0_cl_btn_17_trunk
+  rotate: false
+  xy: 214, 4
+  size: 159, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1

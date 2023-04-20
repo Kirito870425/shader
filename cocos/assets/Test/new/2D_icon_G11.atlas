@@ -1,0 +1,83 @@
+
+2D_icon_G11.webp
+size: 132,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 312
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 68, 49
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 113, 30
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+eyesball
+  rotate: false
+  xy: 104, 167
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 197
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+head01
+  rotate: false
+  xy: 2, 62
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+head02
+  rotate: true
+  xy: 2, 10
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 104, 120
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 2, 120
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+t_leaf_01
+  rotate: false
+  xy: 104, 153
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 60, 3
+  size: 45, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1

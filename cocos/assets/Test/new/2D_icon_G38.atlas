@@ -1,0 +1,286 @@
+
+2D_icon_G38.webp
+size: 152,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: 180
+  xy: 30, 30
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: 270
+  xy: 84, 87
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 354
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 2, 121
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+brow_01_L
+  rotate: true
+  xy: 142, 330
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+brow_01_R
+  rotate: false
+  xy: 94, 7
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+chip
+  rotate: true
+  xy: 91, 265
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+chip2
+  rotate: false
+  xy: 51, 116
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+coat_L
+  rotate: true
+  xy: 2, 214
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+coat_R
+  rotate: true
+  xy: 21, 175
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+earring
+  rotate: true
+  xy: 74, 4
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+earring(copy)
+  rotate: true
+  xy: 74, 4
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+eye_00
+  rotate: false
+  xy: 42, 149
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+eye_01_L
+  rotate: false
+  xy: 113, 136
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+eye_01_R
+  rotate: false
+  xy: 135, 72
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+eyelid_01_L
+  rotate: true
+  xy: 142, 280
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+eyelid_01_R
+  rotate: true
+  xy: 146, 131
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+face_N
+  rotate: false
+  xy: 2, 262
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 47, 10
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: 270
+  xy: 65, 57
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 90, 212
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+hair_L_01
+  rotate: 270
+  xy: 2, 70
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1
+hair_L_02
+  rotate: true
+  xy: 85, 12
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+hair_L_03
+  rotate: false
+  xy: 116, 10
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+hair_L_04
+  rotate: false
+  xy: 12, 57
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+hair_R_01
+  rotate: 270
+  xy: 2, 333
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+hair_R_02
+  rotate: false
+  xy: 119, 20
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_R_03
+  rotate: false
+  xy: 130, 136
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+hair_R_04
+  rotate: 270
+  xy: 71, 28
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 134, 91
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 139, 4
+  size: 18, 9
+  orig: 19, 16
+  offset: 1, 7
+  index: -1
+lash_00_L
+  rotate: false
+  xy: 57, 4
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+lash_00_R
+  rotate: false
+  xy: 116, 4
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+lash_02_L
+  rotate: 180
+  xy: 30, 4
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+lash_02_R
+  rotate: false
+  xy: 4, 3
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 111, 335
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 109, 158
+  size: 59, 40
+  orig: 59, 50
+  offset: 0, 10
+  index: -1
+wrist_L
+  rotate: 180
+  xy: 2, 11
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+zipper
+  rotate: false
+  xy: 144, 108
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+zipper(copy)
+  rotate: false
+  xy: 144, 108
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
