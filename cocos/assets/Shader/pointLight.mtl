@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.Material",
+  "_name": "pointLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "f3a443a9-2c5e-4434-83e3-823f786a24b0"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "ENABLE_DIFFUSION": true
+      }
+    }
+  }
+}

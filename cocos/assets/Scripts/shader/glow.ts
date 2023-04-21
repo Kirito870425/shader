@@ -16,7 +16,6 @@ export default class glow extends cc.Component {
     @property([cc.Slider])
     private sliderList: cc.Slider[] = [];
 
-    private colorList = [];
     protected update(): void {
         let material: cc.Material = this.node.getComponent(cc.Sprite).getMaterial(0);
 
