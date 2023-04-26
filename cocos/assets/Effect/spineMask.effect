@@ -1,0 +1,108 @@
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fs
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: none
+      properties:
+        texture: { value: white }
+        alphaThreshold: { value: 0.5 }
+        maskTexture: { value: white }
+        maskInverted: { value: false }
+}%
+
+CCProgram vs %{
+
+precision highp float;
+
+#include <cc-global>
+#include <cc-local>
+
+in vec3 a_position;
+in vec4 a_color;
+#if USE_TINT
+  in vec4 a_color0;
+#endif
+
+in vec2 a_uv0;
+out vec2 v_uv0;
+
+out vec4 v_light;
+#if USE_TINT
+  out vec4 v_dark;
+#endif
+
+void main () {
+  mat4 mvp;
+  
+  #if CC_USE_MODEL
+    mvp = cc_matViewProj * cc_matWorld;
+  #else
+    mvp = cc_matViewProj;
+  #endif
+
+  v_uv0 = a_uv0;
+
+  v_light = a_color;
+  #if USE_TINT
+    v_dark = a_color0;
+  #endif
+
+  gl_Position = mvp * vec4(a_position, 1);
+}
+
+}%
+
+CCProgram fs %{
+
+precision highp float;
+
+uniform sampler2D texture;
+uniform sampler2D maskTexture;
+uniform bool maskInverted;
+uniform vec4 u_mask; // 圓形遮罩的參數，使用vec4存儲(x, y, 半徑, 偏移角度)
+uniform vec4 u_maskColor; // 圓形遮罩的顏色，使用vec4存儲(R, G, B, A)
+in vec2 v_uv0;
+
+in vec4 v_light;
+#if USE_TINT
+  in vec4 v_dark;
+#endif
+
+#include <alpha-test>
+#include <texture>
+
+void main() {
+// 獲取從紋理中取樣的顏色
+vec4 texColor = vec4(1.0);
+CCTexture(texture, v_uv0, texColor);
+
+// 計算從紋理中取樣的顏色是否在圓形區域內
+float distance = length(vec2(v_uv0.x - u_mask.x, v_uv0.y - u_mask.y));
+float angle = atan(v_uv0.y - u_mask.y, v_uv0.x - u_mask.x) - u_mask.z;
+vec2 rotatedUV = vec2(cos(angle) * distance, sin(angle) * distance);
+float mask = step(length(rotatedUV), u_mask.z);
+
+// 結合圓形遮罩的顏色和紋理顏色
+vec4 finalColor;
+
+#if USE_TINT
+finalColor.a = v_light.a * texColor.a;
+finalColor.rgb = ((texColor.a - 1.0) * v_dark.a + 1.0 - texColor.rgb) * v_dark.rgb + texColor.rgb * v_light.rgb;
+#else
+finalColor = texColor * v_light;
+#endif
+
+finalColor *= mask;
+finalColor = mix(finalColor, u_maskColor, u_maskColor.a);
+
+ALPHA_TEST(finalColor);
+
+gl_FragColor = finalColor;
+}
+
+}%

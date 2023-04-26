@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.Material",
+  "_name": "spineRoundCornerCrop",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "c79e92f5-2bc9-49bd-b01e-ae7b53380ee9"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "ENABLE_ROUNDCORNER": true
+      },
+      "props": {
+        "radius": 0.5
+      }
+    }
+  }
+}
