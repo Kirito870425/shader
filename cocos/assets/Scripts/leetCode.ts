@@ -4,6 +4,18 @@ const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class leetCode extends cc.Component {
+
+    protected start(): void {
+        // this.twoSum([1, 3, 5, 2, 7, 9, 11, 15], 9);
+        // this.twoSum([3, 2, 4], 6);
+
+        let fre = new FrequencyTracker();
+        fre.add(1);
+        // fre.deleteOne(1);
+        fre.hasFrequency(1);
+
+    }
+
     twoSum(nums: number[], target: number): number[] {
         let arr = [];
         let targetArr = nums.filter(num => (num < target));
@@ -17,10 +29,35 @@ export default class leetCode extends cc.Component {
         console.log(arr);
         return arr;
     }
+}
 
-    protected start(): void {
-        // this.twoSum([1, 3, 5, 2, 7, 9, 11, 15], 9);
-        this.twoSum([3, 2, 4], 6);
+class FrequencyTracker {
+    private arr = [];
+    constructor() {
+        this.arr = [];
+        console.error("constructor", this.arr);
+
     }
 
+    add(number: number): void {
+        this.arr.push(number);
+        console.error("add", this.arr);
+
+    }
+
+    deleteOne(number: number): void {
+        this.arr.pop();
+        console.error("del", this.arr);
+    }
+
+    hasFrequency(frequency: number): boolean {
+        // 取出 value.length 比對 frequency
+        let temp = false;
+        this.arr.forEach(i => {
+
+            return temp = i === frequency;
+        });
+        console.error("==", temp)
+        return temp;
+    }
 }
