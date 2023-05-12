@@ -9,10 +9,10 @@ export default class leetCode extends cc.Component {
         // this.twoSum([1, 3, 5, 2, 7, 9, 11, 15], 9);
         // this.twoSum([3, 2, 4], 6);
 
-        let fre = new FrequencyTracker();
-        fre.add(1);
+        // let fre = new FrequencyTracker();
+        // fre.add(1);
         // fre.deleteOne(1);
-        fre.hasFrequency(1);
+        // fre.hasFrequency(1);
 
     }
 
@@ -29,6 +29,29 @@ export default class leetCode extends cc.Component {
         console.log(arr);
         return arr;
     }
+
+    // mostPoints(questions: number[][]): number {
+    //     let ans = 0;
+    //     let jump = 0;
+
+    //     for (let i = 0; i < questions.length; i++) {
+    //         // 跳過分數低的 比對還能補能繼續 如果可以 先不儲存這次的
+    //         if (jump === 0) {
+    //             for (let j = 0; j < questions[i].length; j++) {
+    //                 // 只拿裡面的 value 分數代表要跳過幾題
+    //                 // 判斷大的那個數
+    //                 jump = questions[i][j];
+    //                 ans += questions[i][j];
+    //             }
+    //         }
+    //         else {
+    //             jump--;
+    //             continue;
+    //         }
+    //     }
+
+    //     return ans;
+    // };
 }
 
 class FrequencyTracker {
